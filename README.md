@@ -2,11 +2,11 @@
 
 ### Testing 
 - Add(key, value):
-    <p><img src="../screenshots/add.png"></p>
+    <p><img src="./screenshots/add.png"></p>
 - Get(key):
-    <p><img src="../screenshots/get.png"></p>
+    <p><img src="./screenshots/get.png"></p>
 - Remove(key):
-    <p><img src="../screenshots/remove.png"></p>
+    <p><img src="./screenshots/remove.png"></p>
 
 
 ### How to run the project
